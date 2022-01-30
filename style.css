@@ -338,7 +338,9 @@ a{
 
 
 /**** About Section ****/
-.about{}
+.about{
+    padding: 20px 0;
+}
 
 .about-top{
     text-align: center;
